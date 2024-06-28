@@ -1,2 +1,2 @@
 # ia-langchain
-Repositório inerente a tecnologia Langchain
+Repositório da tecnologia Langchain
