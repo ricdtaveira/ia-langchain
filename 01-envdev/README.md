@@ -32,6 +32,7 @@ no qual iremos criar as aplicações Python.
 ### Passo 1 - Criação de um diretório para a aplicação
 >
 O Diretório que conterá a pasta da aplicação Python será 
+o local onde residiram os arquivos fonte da aplicação.
 >
 >
 Uma outra alternativa é clonar um repositório 
