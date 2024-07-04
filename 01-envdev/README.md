@@ -23,13 +23,13 @@ análise de dados, sem se preocupar com o desenvolvimento
 frontend complexo.
 >
 
-## Criação do Ambiente 
+## Criação do Ambiente de Desenvolvimento
 >
 Nesse tópico seguiremos criando o ambiente de desenvolvimento
 no qual iremos criar as aplicações Python. 
 >
 
-### Passo 1 - Criação de um diretório para a aplicação
+### Passo 1 - Criar um diretório para a aplicação
 >
 O Diretório que conterá a pasta da aplicação Python será 
 o local onde residiram os arquivos fonte da aplicação.
