@@ -39,7 +39,7 @@ criado no GitHub e usalo-lo localmente para escrever
 a aplicação que será desenvolvida.
 >
 
-### Passo 2 - Criar o Ambite Virtual do Python
+### Passo 2 - Criar o Ambiente Virtual do Python
 >
 
 >
