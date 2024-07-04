@@ -25,8 +25,25 @@ frontend complexo.
 
 ## Criação do Ambiente 
 >
+Nesse tópico seguiremos criando o ambiente de desenvolvimento
+no qual iremos criar as aplicações Python. 
+>
+
+### Passo 1 - Criação de um diretório para a aplicação
+>
+O Diretório que conterá a pasta da aplicação Python será 
+>
+>
+Uma outra alternativa é clonar um repositório 
+criado no GitHub e usalo-lo localmente para escrever 
+a aplicação que será desenvolvida.
+>
+
+### Passo 2 - Criar o Ambite Virtual do Python
+>
 
 >
+
 
 ## 
 
