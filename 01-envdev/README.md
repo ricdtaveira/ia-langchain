@@ -42,7 +42,14 @@ a aplicação que será desenvolvida.
 
 ### Passo 2 - Criar o Ambiente Virtual do Python
 >
-
+Um ambiente virtual é uma instância independente do Python, que 
+permite isolar as bibliotecas e dependências de um projeto 
+específico. 
+>
+>
+Isso é útil para evitar conflitos entre diferentes versões de 
+pacotes e garantir que o projeto seja executado consistentemente, 
+independentemente do ambiente de desenvolvimento
 >
 
 
