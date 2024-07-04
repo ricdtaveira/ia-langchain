@@ -65,5 +65,6 @@ independentemente do ambiente de desenvolvimento
 | [Build powerful generative AI apps](https://streamlit.io/generative-ai)     |
 | [Streamlit documentation](https://docs.streamlit.io/)
 | [Você conhece o Streamlit? Vantagens e Desvantagens?](https://www.youtube.com/watch?v=yPiRb87Ag9U)
+| [Guia Completo para Usar o Virtual Environment (venv) no Python](https://dev.to/franciscojdsjr/guia-completo-para-usar-o-virtual-environment-venv-no-python-57bo#:~:text=Um%20ambiente%20virtual%20%C3%A9%20uma,independentemente%20do%20ambiente%20de%20desenvolvimento.)
 
 
