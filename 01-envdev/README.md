@@ -12,7 +12,15 @@ uma IDE ou uso de Notebooks.
 >
 ## Streamlit
 >
-
+O Streamlit é uma ferramenta poderosa para desenvolvedores
+que desejam transformar scripts Python em aplicativos web 
+interativos com poucas linhas de código. 
+>
+>
+Ele simplifica a criação de aplicativos, permitindo que os 
+desenvolvedores se concentrem na lógica de negócios e na 
+análise de dados, sem se preocupar com o desenvolvimento 
+frontend complexo.
 >
 
 ## Links
