@@ -23,6 +23,13 @@ análise de dados, sem se preocupar com o desenvolvimento
 frontend complexo.
 >
 
+## Criação do Ambiente 
+>
+
+>
+
+## 
+
 ## Links
 | Descrição                 |
 |----------------------------------------------------------------|
@@ -32,5 +39,6 @@ frontend complexo.
 | [A faster way to build and share data apps](https://streamlit.io/)     |
 | [Build powerful generative AI apps](https://streamlit.io/generative-ai)     |
 | [Streamlit documentation](https://docs.streamlit.io/)
+| [Você conhece o Streamlit? Vantagens e Desvantagens?](https://www.youtube.com/watch?v=yPiRb87Ag9U)
 
 
