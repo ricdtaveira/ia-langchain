@@ -11,9 +11,9 @@ A Langchain permite que desenvolvedores usem um kit de ferramentas abrangente pa
 
 ## Indice
 >
-| Tópico | Conceito                |
+| Tópico | Conceito                 |
 |:------:|--------------------------|
-| 01     | [IA Generativa](https://github.com/ricdtaveira/ia_conceitos/tree/main/01-genai)|
+| 01     | [Ambiente de Desenvolvimento](https://github.com/ricdtaveira/ia_langchain/tree/main/01-envdev)|
 
 >
 ## Artigos 
